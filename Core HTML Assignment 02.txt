@@ -1,0 +1,280 @@
+Ans:1
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <b>This text will be bolded.</b><br>
+    <i>This text will be italic.</i><br>
+    <u>This text will be underlined.</u><br>
+    <mark>This text will be highlighted.</mark>
+    <p>This is normal text <sup>This will be super scriped</sup> This is normal again.</p>
+   <p>This is normal text.<sub>This will be sub scriped</sub></p>
+   <p>Normal text <small>Small Text</small></p>
+   <del>This text will be deleted.</del>
+</body>
+</html>
+
+Ans:2 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Navigate Me:</h1>
+    <p>Take me to <a href="https://pwskills.com/courses">PW Skills</a>  to buy a course.</p>
+    <p>Take me to <a href="https://developer.mozilla.org/">MDN Docs</a> to know more about Web Devlopment.</p>
+    <p>Take me to <a href="https://lab.pwskills.com/">PW Skills Lab</a> to practice live coding.</p>
+</body>
+</html>
+
+Ans:3
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is Home Page</h1>
+    <p>About<a href="Web Devlopment.html" target="_blank">Web Devlopment</a></p>
+    <h3><u>my special hobby:-</u></h3>
+    <p>My favourite hobby is watching TV. Whenever I have free time, I love watching Television. It never obstructs my studies. Hobbies help us to expand our knowledge, and it teaches us several things. First, I like to finish all my school homework and then start watching TV. This lightens my mood and sparks up the excitement inside me, as it increases my curiosity about the world. Watching different useful stuff on TV enhances my knowledge horizons and gives me lots of joy.</p>
+</body>
+</html>
+
+Ans:4
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html list</title>
+</head>
+<body>
+    <ol>
+        <li>h1</li>
+        <p>This is a heading Tag.</p>
+        <li>p</li>
+        <p>This is a paragraph Tag.</p>
+        <li>br</li>
+        <p>This is a line break Tag.</p>
+        <li>u</li>
+        <p>This is a underline Tag.</p>
+        <li>i</li>
+        <p>This is a Italic Tag.</p>
+        <li>hr</li>
+        <p>This is a Horizontal line Tag.</p>
+        <li>sup</li>
+        <p>This is a Super Scriped.</p>
+        <li>sub</li>
+        <p>This is a sub Scriped.</p>
+    </ol>
+</body>
+</html>
+
+Ans:5
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dl list</title>
+</head>
+<body> 
+    <h1>Full Stack Web Devlopment</h1>
+    <dl>
+        <dt>Front end engineer</dt>
+        <dd>A front-end engineer works on the part of the software that users and clients see. “Front-end” refers to the user-facing side of   an application</dd>
+        <dt>Back end engineer</dt>
+        <dd>A backend engineer is responsible for designing, building, and maintaining the server side of web applications.</dd>
+        <dt>full stack web engineer</dt>
+        <dd>A full-stack engineer is a type of software engineer who works on both the front and back end of software.</dd>
+    </dl>
+</body>
+</html>
+
+Ans:6
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=tabl, initial-scale=1.0">
+    <title>table.list</title>
+</head>
+<body>
+    <ol>
+        <li><h1>HTML</h1></li>
+        <table border="1px">
+            <tr>
+                <th>Primary Use Case</th>
+                <th>Key Feature/Benefit</th>
+            </tr>
+            <tr>
+               <td>HTML Form</td>
+                <td>
+                    <ul>
+                    <li>An HTML form is used to collect user input</li>
+                    <li>make data much easier to sort and manage</li>
+                    <li>An HTML form is a section of a document containing normal content, markup, special elements called controls</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <li><h1>CSS</h1></li>
+        <table border="1px">
+            <tr>
+                <th>Primary Use Case</th>
+                <th>Key Feature/Benefit</th>
+            </tr>
+            <tr>
+               <td>Background Color& Text color</td>
+                <td>
+                    <ul>
+                    <li>sets the background color of an element. </li>
+                    <li>better enable viewers to read the site content</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <li><h1>JS</h1></li>
+        <table border="1px">
+            <tr>
+                <th>Primary Use Case</th>
+                <th>Key Feature/Benefit</th>
+            </tr>
+            <tr>
+               <td>dynamic website</td>
+                <td>
+                    <ul>
+                    <li>It provides more functional websites</li>
+                    <li>They display content based on the user's needs. </li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </ol>
+</body>
+</html>
+
+Ans:7
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table of content</title>
+</head>
+<body>
+    <table border="1px" cellspacing="0px">
+        <tr>
+            <td>
+                <h1>Table of Contants</h1>
+                <ul><li><a href="">Part 1:Introduction</a></li></ul>
+                <ul><li><a href="">Part 2:Getting Started</a></li>
+                    <ul type="circle">
+                        <li><a href="">2.1Installing the software</a></li>
+                        <li><a href="">2.2 Creating a New Project</a></li>
+                        <ul type="disk">
+                            <li><a href="">2.2.1 Project Templates</a></li>
+                            <li><a href="">2.2.2 Customizing Setting</a></li>
+                        </ul>
+                        <li><a href="">2.3 Exploring the Internet</a></li>
+                        <ul type="disk">
+                            <li><a href="">2.3.1 Toolbar Feature</a></li>
+                            <li><a href="">2.3.2.2 Panel Layout</a></li>
+                        </ul>
+                    </ul>
+                    <li><a href="">Part 3:Advanced Topic</a></li>
+                    <ul type="circle">
+                        <li><a href="">3.1 Working with Plugins</a></li>
+                        <ul type="disk">
+                            <li><a href="">3.1.1 Installing Plugins</a></li>
+                            <li><a href="">2.2.2 Plugins Configration</a></li>
+                        </ul>
+                        <li><a href="">3.2 Custmizing the UI</a></li>
+                        <ul type="disk">
+                            <li><a href="">3.2.1 Changing Themes</a></li>
+                            <li><a href="">3.2.2 Configuring Shortcut</a></li>
+                        </ul>
+                        <li><a href="">3.3 Optimizing Performance</a></li>
+                        <ul type="disk">
+                            <li><a href="">3.3.1 Caching Strategis</a></li>
+                            <li><a href="">3.3.2 Resource Manication</a></li>
+                        </ul>
+                    </ul>
+                    <li><a href="">Part 4:Conclusion</a></li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+Ans: 8
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Content</title>
+</head>
+<body>
+    <h1>Conference Shedule</h1>
+    <table border="1px" Cellspacing="0px">
+        <tr>
+           <th>Time</th>
+           <th>Room 1</th>
+           <th>Room 2</th>
+           <th>Room 3</th>
+           <th>Room 4</th>
+        </tr>
+        <tr>
+            <td rowspan="3">9:00Am-10:00Am</td>
+            <td rowspan="2">Keynote</td>
+            <td>Session A</td>
+            <td>Session B</td>
+            <td rowspan="3">Session C</td>
+        </tr>
+        <tr>
+            <td>Session D</td>
+            <td>Session E</td>
+        </tr>
+        <tr>
+            <td>10:30 AM-11:30 AM</td>
+            <td colspan="2">Session F</td>
+        </tr>
+        <tr>
+            <td>12:00 PM-1:00 PM</td>
+            <td colspan="4">Lunch Break</td>
+        </tr>
+        <tr>
+            <td rowspan="2">1:00 PM-2:00PM</td>
+            <td>Session G</td>
+            <td rowspan="2">Session H</td>
+            <td>Session I</td>
+            <td>Session J</td>
+        </tr>
+        <tr>
+            <td>Session K</td>
+            <td>Session L</td>
+            <td>Session M</td>
+        </tr>
+    </table>
+</body>
+</html>
